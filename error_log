@@ -1,7 +1,0 @@
-[27-Feb-2013 08:11:33 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/maskslim/public_html/tools/swift/Swift/Plugin/MailSend.php on line 161
-[27-Feb-2013 08:13:10 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/maskslim/public_html/tools/swift/Swift/Plugin/MailSend.php on line 161
-[28-Feb-2013 02:59:57 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/maskslim/public_html/new/tools/swift/Swift/Plugin/MailSend.php on line 161
-[28-Feb-2013 03:02:03 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/maskslim/public_html/new/tools/swift/Swift/Plugin/MailSend.php on line 161
-[28-Feb-2013 04:54:38 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/maskslim/public_html/new/tools/swift/Swift/Plugin/MailSend.php on line 161
-[20-Mar-2013 08:55:25 UTC] PHP Warning:  Division by zero in /home/maskslim/public_html/new/tools/tcpdf/tcpdf.php on line 22977
-[20-Mar-2013 08:55:25 UTC] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home/maskslim/public_html/new/tools/tcpdf/tcpdf.php on line 22979
