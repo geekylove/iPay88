@@ -1,6 +1,6 @@
 iPay88
 ======
 
-iPay mutiple carrier fix
+iPay88 mutiple carrier fix
 
 Planned Change: Better UX!
